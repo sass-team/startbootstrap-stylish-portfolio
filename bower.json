@@ -1,0 +1,25 @@
+{
+  "name": "rdok/startbootstrap-stylish-portfolio",
+  "homepage": "https://github.com/rdok/startbootstrap-stylish-portfolio",
+  "authors": [
+    "Rizart Dokollari <r.dokollari@gmail.com>"
+  ],
+  "description": "A stylish, one page, Bootstrap portfolio theme created by Start Bootstrap http://startbootstrap.com/template-overviews/stylish-portfolio/",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "bootstrap3",
+    "startbootstrap",
+    "stylish",
+    "portfolio",
+    "fork"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
